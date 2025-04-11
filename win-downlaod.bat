@@ -5,25 +5,26 @@ setlocal enabledelayedexpansion
 :: List your Winget app IDs here, one per line
 :: ==========================================
 
-set "app1=microsoft.powertoys"
-set "app2=AutoHotkey.AutoHotkey"
-set "app3=vscodium+vscodium"
+set "app1=valinet.ExplorerPatcher"
+set "app2=microsoft.powertoys"
+set "app3=AutoHotkey.AutoHotkey"
 set "app4=vscodium+vscodium"
-set "app5=ideoLAN.VLC"
-set "app6=Neovim.Neovim"
-set "app7=RaspberryPiFoundation.RaspberryPiImager"
-set "app8=Oracle.VirtualBox"
-set "app9=KDE.Krita"
-set "app10=BlenderFoundation.Blender"
-set "app11=KDE.KDEConnect"
-set "app12=logseq.logseq"
-set "app13=Nvidia.GeForceExperience"
-set "app14=Voicemod.Voicemod"
-set "app15=WhatsApp.WhatsApp"
-set "app16=VB-Audio.Voicemeeter.Potato"
+set "app5=vscodium+vscodium"
+set "app6=ideoLAN.VLC"
+set "app7=Neovim.Neovim"
+set "app8=RaspberryPiFoundation.RaspberryPiImager"
+set "app9=Oracle.VirtualBox"
+set "app10=KDE.Krita"
+set "app11=BlenderFoundation.Blender"
+set "app12=KDE.KDEConnect"
+set "app13=logseq.logseq"
+set "app14=Nvidia.GeForceExperience"
+set "app15=Voicemod.Voicemod"
+set "app16=WhatsApp.WhatsApp"
+set "app17=VB-Audio.Voicemeeter.Potato"
 
 :: Total number of apps to install
-set "total=16"
+set "total=17"
 
 :: ==========================================
 :: Check if winget is installed
