@@ -22,9 +22,10 @@ set "app14=Nvidia.GeForceExperience"
 set "app15=Voicemod.Voicemod"
 set "app16=WhatsApp.WhatsApp"
 set "app17=VB-Audio.Voicemeeter.Potato"
+set "app18=Audacity.Audacity"
 
 :: Total number of apps to install
-set "total=17"
+set "total=18"
 
 :: ==========================================
 :: Check if winget is installed
