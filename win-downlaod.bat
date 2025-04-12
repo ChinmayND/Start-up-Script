@@ -23,9 +23,10 @@ set "app15=Voicemod.Voicemod"
 set "app16=WhatsApp.WhatsApp"
 set "app17=VB-Audio.Voicemeeter.Potato"
 set "app18=Audacity.Audacity"
+set "app19=fastfetch"
 
 :: Total number of apps to install
-set "total=18"
+set "total=19"
 
 :: ==========================================
 :: Check if winget is installed
