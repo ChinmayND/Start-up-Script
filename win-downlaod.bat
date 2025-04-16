@@ -29,11 +29,12 @@ set "app21=XP9B0BH6T8Z7KZ"  ::voicemod
 set "APP22=VideoLAN.VLC"
 set "app23=glzr-io.GlazeWM"
 set "app24=Nvidia.GeForceExperience"
-set "app20=fastfetch-cli.fastfetch"
-:: SET "app21=winget install FilesCommunity.Files"
+set "app25=Zen-Team.Zen-Browser"
+set "app26=fastfetch-cli.fastfetch"
+:: SET "app=winget install FilesCommunity.Files"
 
 :: Total number of apps to install
-set "total=19"
+set "total=26"
 
 :: ==========================================
 :: Check if winget is installed
