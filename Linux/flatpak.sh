@@ -1,1 +1,0 @@
-flatpak install nvim steam 
