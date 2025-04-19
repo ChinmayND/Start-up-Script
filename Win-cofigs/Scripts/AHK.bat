@@ -1,0 +1,1 @@
+vscodium.lnk AHK_script.ahk
