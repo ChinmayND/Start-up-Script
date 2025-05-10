@@ -31,10 +31,11 @@ set "app23=glzr-io.GlazeWM"
 set "app24=Nvidia.GeForceExperience"
 set "app25=Zen-Team.Zen-Browser"
 set "app26=fastfetch-cli.fastfetch"
+set "app27=yazi.sxyazi.yazi"
 :: SET "app=winget install FilesCommunity.Files"
 
 :: Total number of apps to install
-set "total=26"
+set "total=27"
 
 :: ==========================================
 :: Check if winget is installed
